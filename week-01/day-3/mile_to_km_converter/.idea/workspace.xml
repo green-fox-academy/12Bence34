@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="Hello_user" targetName="Hello_user" />
+      <config projectName="mile_to_km_converter" targetName="mile_to_km_converter" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,8 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bec63448-3eaf-4af1-80a2-e619463f62da" name="Default Changelist" comment="">
+    <list default="true" id="5265d3f4-6cb1-4a87-bcfd-ae9459addaa5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Hello_Others/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello_Others/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello_user/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello_user/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Introduce_Yourself/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Introduce_Yourself/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../define_basic_info/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../define_basic_info/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../define_basic_info/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../define_basic_info/main.cpp" afterDir="false" />
@@ -43,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="306">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -64,7 +65,7 @@
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
-        <option value="$PROJECT_DIR$/.idea/Hello_user.iml" />
+        <option value="$PROJECT_DIR$/.idea/mile_to_km_converter.iml" />
         <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
@@ -83,12 +84,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -106,7 +106,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Hello_user" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Hello_user" TARGET_NAME="Hello_user" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Hello_user" RUN_TARGET_NAME="Hello_user">
+    <configuration name="mile_to_km_converter" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mile_to_km_converter" TARGET_NAME="mile_to_km_converter" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mile_to_km_converter" RUN_TARGET_NAME="mile_to_km_converter">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -117,17 +117,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bec63448-3eaf-4af1-80a2-e619463f62da" name="Default Changelist" comment="" />
-      <created>1554297811087</created>
+      <changelist id="5265d3f4-6cb1-4a87-bcfd-ae9459addaa5" name="Default Changelist" comment="" />
+      <created>1554300058522</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554297811087</updated>
-      <workItem from="1554297812561" duration="897000" />
+      <updated>1554300058522</updated>
+      <workItem from="1554300059780" duration="1366000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="897000" />
+    <option name="totallyTimeSpent" value="1366000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -164,8 +164,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="306">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>

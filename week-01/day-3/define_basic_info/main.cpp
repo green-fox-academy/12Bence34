@@ -8,7 +8,7 @@ int main(int argc, char* args[]) {
     // Your height in meters as a double
     // Whether you are married or not as a boolean
 
-    std::string name = "Bence";
+    string name = "Bence";
     std::cout<< name <<std:: endl;
 
     int  age;
