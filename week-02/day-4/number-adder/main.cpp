@@ -8,7 +8,7 @@ int main() {
 
     int n;
 
-    std::cout << "Type a number please:" << std::endl;
+    std::cout << "Type a number please: " << std::endl;
     std::cin >> n;
     std::cout << " " << std::endl;
 
